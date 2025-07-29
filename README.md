@@ -1,1 +1,32 @@
-# minerva-mobile
+# Minerva - App de Apoio ao Ensino de Lógica de Programação
+
+**Minerva** é um aplicativo mobile desenvolvido em **React Native** para auxiliar estudantes no ensino e aprendizagem de **lógica de programação** de forma gamificada.
+
+O app foi pensado como um suplemento às disciplinas de Introdução à Programação, proporcionando um ambiente interativo, competitivo e motivador.
+
+## Objetivo
+
+Apoiar o aprendizado de lógica de programação por meio de desafios, recompensas e atividades gamificadas que:
+- Estimulam o raciocínio lógico
+- Incentivam o estudo constante
+- Promovem a colaboração entre alunos
+- Favorecem a competição saudável entre equipes
+
+## Tecnologias Utilizadas
+
+- [React Native](https://reactnative.dev/) – desenvolvimento mobile multiplataforma
+- [Expo](https://expo.dev/) – ferramenta para facilitar testes e deploy
+- [TypeScript](https://www.typescriptlang.org/) – tipagem estática
+- Backend em desenvolvimento (futuramente com Supabase ou Firebase)
+
+## Autoria
+
+Desenvolvido por:
+
+- **Ana Beatriz Sena**  
+- **Lorena Rios**
+**Orientador:** Prof. Lucas Almeida
+
+
+
+Curso de **Sistemas de Informação** – Centro Universitário de Excelência (UNEX)
