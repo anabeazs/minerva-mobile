@@ -14,10 +14,9 @@ Apoiar o aprendizado de lógica de programação por meio de desafios, recompens
 
 ## Tecnologias Utilizadas
 
-- [React Native](https://reactnative.dev/) – desenvolvimento mobile multiplataforma
-- [Expo](https://expo.dev/) – ferramenta para facilitar testes e deploy
+- [React Native](https://reactnative.dev/)
+- [Expo](https://expo.dev/)
 - [TypeScript](https://www.typescriptlang.org/) – tipagem estática
-- Backend em desenvolvimento (futuramente com Supabase ou Firebase)
 
 ## Autoria
 
