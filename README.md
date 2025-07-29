@@ -16,7 +16,7 @@ Apoiar o aprendizado de lógica de programação por meio de desafios, recompens
 
 - [React Native](https://reactnative.dev/)
 - [Expo](https://expo.dev/)
-- [TypeScript](https://www.typescriptlang.org/) – tipagem estática
+- [TypeScript](https://www.typescriptlang.org/)
 
 ## Autoria
 
