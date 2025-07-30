@@ -27,8 +27,9 @@ Desenvolvido por:
 
 - **Ana Beatriz Sena**  
 - **Lorena Rios**
+  
 **Orientador:** Prof. Lucas Almeida
 
+##
 
-
-Curso de **Sistemas de Informação** – Centro Universitário de Excelência (UNEX)
+Centro Universitário de Excelência (UNEX) - Curso de **Sistemas de Informação**
