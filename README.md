@@ -32,4 +32,5 @@ Desenvolvido por:
 
 ##
 
-Centro Universitário de Excelência (UNEX) - Curso de **Sistemas de Informação**
+Centro Universitário de Excelência ![Texto alternativo](<img width="785" height="445" alt="image" src="https://github.com/user-attachments/assets/c715d794-f18c-47b5-8862-7a75a27d8f67" />
+) - Curso de **Sistemas de Informação**
